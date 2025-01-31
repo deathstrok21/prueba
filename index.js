@@ -2,7 +2,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('No podias decir que no jiji'
-          ' Eres lo más bonito que tengo, gracias por iluminar mi vida de una manera tan bonita, te amo ''.')
+          ' Eres lo más bonito que tengo, gracias por iluminar mi vida de una manera tan bonita, te amo ')
 });
 
 const noBtn = document.querySelector('#noBtn');
